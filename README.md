@@ -1,2 +1,3 @@
 # shiny-sniffle
-Telegram python client made on top of the pyrogram implementation, have a look https://docs.pyrogram.org/
+Telegram python client made on top of pyrogram library.
+Read documentation https://docs.pyrogram.org/
